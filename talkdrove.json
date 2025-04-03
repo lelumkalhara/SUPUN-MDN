@@ -1,0 +1,18 @@
+{
+    "bot-name": "SUPUN-MD",
+    "description": "SUPUM-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤❤️",
+    "logo": "https://i.ibb.co/bHXBV08/9242c844b83f7bf9.jpg",
+    "keywords": ["bot", "whatsapp", "automation", "supunmd", "supun"],
+    "documentation-link": "https://supun-md-session.vercel.app/",
+    "owner-verification":"supunmd04@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Paste Your SUPUN-MD session",
+        "value":"",
+        "required": true
+        
+      }
+    }
+  
+  }
