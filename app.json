@@ -1,0 +1,23 @@
+{
+  "name": "SUPUN-MD",
+  "description": "SUPUM-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤❤️",
+  "logo": "https://i.ibb.co/bHXBV08/9242c844b83f7bf9.jpg",
+  "keywords": ["supunmd", "bot", "whatsapp-bot", "multi-device", "supun-md"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+            "description": "Paste Your SUPUN-MD session",
+            "required": true,
+            "value": ""
+        }
+    },
+         "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        }
+     ],
+  "stack": "heroku-24"
+
+
+}
