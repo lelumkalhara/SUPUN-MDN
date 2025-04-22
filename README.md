@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+SUPUN-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;DARK+SHADOW+MODZ." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+SUPUN-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY;MR+SUPUN+FERNANDO." alt="Typing SVG" /></a>
 
  
   
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@darkshadow_zap?si=8js31BzLWISSdz12">
-    <img alt="SUPUN-MD" height="550" width="550" src="https://i.ibb.co/bHXBV08/9242c844b83f7bf9.jpg">
+    <img alt="SUPUN-MD" height="720" width="1280" src="https://i.ibb.co/mVJg1Ljn/Supunmd.jpg">
 <br>
 
 <div align="left">
