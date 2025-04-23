@@ -1,10 +1,10 @@
 {
     "name": "SUPUN-MD",
-    "version": "3.3.1",
+    "version": "3.4.7",
     "description": "A WhatsApp bot created using Node.js",
-    "main": "index.js",
+    "main": "supunmd.js",
     "scripts": {
-      "start": "pm2 start index.js --deep-monitoring --attach --name supunmd",
+      "start": "pm2 start supunmd.js --deep-monitoring --attach --name supunmd",
       "stop": "pm2 stop supunmd",
       "restart": "pm2 restart supunmd"
     },
